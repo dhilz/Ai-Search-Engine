@@ -17,7 +17,7 @@ or
 
 pip install pywin32
 
-to use this tool
+#To use this tool
 
 python3 ai.py
 
